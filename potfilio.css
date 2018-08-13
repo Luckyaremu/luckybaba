@@ -5,6 +5,7 @@
 .font-div{
     width: 20%;
     height: 100%;
+    font-size:2vw;
 }
 img{
     width: 100%;
@@ -18,3 +19,4 @@ img{
         padding: 98.5px 0px!important;
             }
 }
+
