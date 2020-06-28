@@ -26,11 +26,11 @@ img{
             }
 }
 
-@media only screen and (max-width:360px){
+@media only screen and (max-width:414px){
     .font-div{
         width: 20%;
-        height: 5%;
-        font-size:4vw;
+        height: 20%;
+        font-size:2vw;
     }
 }
 
