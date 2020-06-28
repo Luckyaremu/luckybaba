@@ -28,7 +28,9 @@ img{
 
 @media only screen and (max-width:414px){
     .font-div{
-        font-size:2vw;
+        width: 20%;
+        height: 20%;
+        font-size:3vw;
     }
 }
 
