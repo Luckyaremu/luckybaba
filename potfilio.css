@@ -19,10 +19,13 @@ img{
 
 .fab {
     color:white !important;
-    text-decoration: none;
-    list-style: none;
-    text-decoration-style: none;
 }
+.fab:hover {
+    text-decoration: none;
+    cursor: pointer;
+    
+
+  }
 /* /////responsive////// */
 
 @media only screen and (min-width:1198px){
@@ -34,7 +37,7 @@ img{
 @media only screen and (max-width:414px){
     .font-div{
         width: 20%;
-        height: 20%;
+        height: 10%;
         font-size:2vw;
         font-weight: bolder;
     }
